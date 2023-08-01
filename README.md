@@ -1,4 +1,3 @@
-git test charlie!!!!!!!
-================
+Note for study C
 
 
